@@ -1,9 +1,10 @@
 # al_islam_quizzer
 This is a quiz app on  basic islamic knowledge in different categories for both adult and children 
+The landing page
 
-x-special/nautilus-clipboard
-copy
-file:///home/hassan/Desktop/Screenshot_1642967879.png
+![Screenshot_1642967873](https://user-images.githubusercontent.com/61418039/150700209-bcff2e62-4e2a-45ff-9664-7fe2e79c16d1.png)
+
+
 
 ## Getting Started
 
